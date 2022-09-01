@@ -9,7 +9,7 @@ const assignment1 = Content.map(
         <p>Object Class: {assignment1.objectClass}</p>
         <p>Containment: {assignment1.containment}</p>
         <p>Description: {assignment1.description}</p>
-        <p className ="text-center"><img src={assignment1.image} alt="image" className="borer rounded" style ={{maxWidth:"250px"}}></img></p>
+        <p className ="text-center"><img src={assignment1.image} alt="SCP" className="borer rounded" style ={{maxWidth:"250px"}}></img></p>
       </div>
     );
   }
